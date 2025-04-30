@@ -41,7 +41,7 @@ A responsive weather dashboard built with **React**, **Express**, and the **Open
 1. **Download or Clone** the repository:
    - Download ZIP or run:
      ```bash
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/Manan-Garg-22/Weather-Dashboard.git
      ```
 
 2. **Navigate to the root project directory**:
