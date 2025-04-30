@@ -1,0 +1,16 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install-all": "npm install --prefix Frontend && npm install --prefix Backend",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon Backend/server.js",
+    "client": "npm start --prefix Frontend",
+    "build": "npm run build --prefix Frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1",
+    "nodemon": "^2.0.22"
+  }
+}
