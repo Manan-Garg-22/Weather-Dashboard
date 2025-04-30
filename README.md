@@ -6,8 +6,8 @@ A responsive weather dashboard built with **React**, **Express**, and the **Open
 
 ## 🖼️ Preview
 
-![Weather Dashboard Light Theme Celsius](./assets/videos/weather1.png)
-![Weather Dashboard Dark Theme Fahrenheit](./assets/videos/weather2.png)
+![Weather Dashboard Light Theme Celsius](./Frontend/src/assets/videos/weather1.png)
+![Weather Dashboard Dark Theme Fahrenheit](./Frontend/src/assets/videos/weather2.png)
 
 ---
 
